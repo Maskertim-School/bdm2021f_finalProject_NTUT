@@ -15,3 +15,6 @@ MapReduce has several advantages for speeding up K-means clustring algorithm:
 * Hao-Ying Cheng (Masker Tim)
     * Email: t109598001@ntut.org.tw
     * Affliation: National Taipei University of Technology
+* Yueh Tang
+    * Email: t109598033@ntut.org.tw
+    * Affliation: National Taipei University of Technology
