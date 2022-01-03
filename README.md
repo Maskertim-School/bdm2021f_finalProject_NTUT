@@ -11,6 +11,13 @@ MapReduce has several advantages for speeding up K-means clustring algorithm:
 ## MapReduce Design Diagram
 > Later to write
 
+## Reference
+* K-means: A Complete Introduction, online available: https://towardsdatascience.com/
+* A Very Brief Introduction of MapReduce, online available: https://hci.standford.edu/courses/cs448g
+* davide-cocoomini/KMeans-MapReduce, online available: https://github.com/davide-cocoomini/KMeans-MapReduce
+* IRIS Flower Dataset, online available: https://www.kaggle.com/arshid/iris-flower-dataset
+* Weather Dateset, online available: https://www.kaggle.com/prakharrathi25/weather-data-clustering-using-k-means/notebook
+
 ## Contribution
 * Hao-Ying Cheng (Masker Tim)
     * Email: t109598001@ntut.org.tw
