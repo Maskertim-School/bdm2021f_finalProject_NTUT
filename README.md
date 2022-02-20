@@ -5,12 +5,6 @@ MapReduce has several advantages for speeding up K-means clustring algorithm:
 * Simpilicity: only consider **Map** and **Reduce** concepts.
 * Distribution: Makes this algorithm possible to run on distributed mode.
 
-## Algorithm
-> Later to write
-
-## MapReduce Design Diagram
-> Later to write
-
 ## Reference
 * K-means: A Complete Introduction, online available: https://towardsdatascience.com/
 * A Very Brief Introduction of MapReduce, online available: https://hci.standford.edu/courses/cs448g
